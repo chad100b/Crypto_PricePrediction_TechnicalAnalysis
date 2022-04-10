@@ -107,7 +107,7 @@ Note: The notebooks show the final models used for the project, however, multipl
 * Created a "buy" and "sell" dataframe and split the data into a training and testing set
 * Scaled the date using StandardScaler(), fit the model and run
 * Created and ran model for XRP and made a total profit/loss of the trading strategy of $56,032.16
- ![Fibonacci Retracement](Images/Sentiment_chart.png)
+ ![Fibonacci Retracement](Images/Fibonacci_Chart.png)
 
 
 - - -
