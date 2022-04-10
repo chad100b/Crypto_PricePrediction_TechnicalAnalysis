@@ -37,11 +37,13 @@ Note: The notebooks show the final models used for the project, however, multipl
 
 [LSTM RNN Model](Code_Files/Crytpo_LSTM_Forecasting.ipynb)
 
-[Sentiment Analysis](Code_Files/sentiment analysis.ipynb)
+[Sentiment Analysis](Code_Files/sentiment_analysis.ipynb)
 
 [Bollinger Bands Indicator](Code_Files/bollinger.ipynb)
 
 [MACD & Fibonacci Indicators](Code_Files/MACD_and_Fibonacci_levels.ipynb)
+
+[Moving Averages](Code_Files/XRPewmaFinal.ipynb)
 - - -
 
 # Code Execution - Build Price Predictor and Indicators
@@ -97,6 +99,7 @@ Note: The notebooks show the final models used for the project, however, multipl
 * Visualized the MACD indicator and set the signal column
 * Developed the algorithm, tested it and evaluate
 * Algo for XRP made a total profit/loss of the trading strategy of $1,647.05
+ ![Moving/MEA 30 Day Average](Images/Moving_Average_30.png)
     
 3. Fibonacci Retracement - a method of technical analysis for determining support and resistance levels.
 * Created a Fibonacci Signals dataframe looking at the actual return price, highest and lowest point and their difference
@@ -104,6 +107,8 @@ Note: The notebooks show the final models used for the project, however, multipl
 * Created a "buy" and "sell" dataframe and split the data into a training and testing set
 * Scaled the date using StandardScaler(), fit the model and run
 * Created and ran model for XRP and made a total profit/loss of the trading strategy of $56,032.16
+ ![Fibonacci Retracement](Images/Sentiment_chart.png)
+
 
 - - -
 
